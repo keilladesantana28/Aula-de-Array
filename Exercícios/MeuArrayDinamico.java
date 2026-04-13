@@ -1,3 +1,4 @@
+package Exercícios;
 public class MeuArrayDinamico{
     private int[ ] dados; 
     private int tamanho;

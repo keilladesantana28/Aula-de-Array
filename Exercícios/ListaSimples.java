@@ -1,3 +1,4 @@
+package Exercícios;
 public class ListaSimples{
     private Node head; 
 

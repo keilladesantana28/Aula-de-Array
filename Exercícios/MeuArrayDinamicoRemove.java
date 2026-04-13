@@ -1,3 +1,4 @@
+package Exercícios;
 public class MeuArrayDinamicoRemove{
     private int[ ] dados; 
     private int tamanho;
